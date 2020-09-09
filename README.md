@@ -1,6 +1,6 @@
 # Siddharth Bhanushali 
 
-Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if you like! and I am currently full stack developer and a class of 2020 grad in Information Systems from San Francisco State university.  I have experience writing programs in python as well as  developing and delpoying full stack applications with various web technologies. I'm a lifelong learner at heart and love finding out the most efficient way to solve problems at hand. 
+Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if you like! and I am currently full stack developer and a class of 2020 grad in Information Systems from San Francisco State University.  I have experience writing programs in python as well as  developing and delpoying full stack applications with various web technologies. I'm a lifelong learner at heart and love finding out the most efficient way to solve problems at hand. 
 
 ## Work
 
@@ -8,7 +8,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 **active site user**
 
--   I am currently an active user at Twitter inc. iusually lerk i dont post anything
+-   I am currently an active user at Twitter inc. i usually lerk i dont post anything
 
 ### Hirani  Hospital
 
@@ -18,9 +18,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 ### Publications
 
-1.  [Scalable Machine Learning with OpenSHMEM - Author](https://sc19.supercomputing.org/presentation/?id=ws_pawatm114&sess=sess108)
-2.  [Designing, Implementing, and Evalutating the Upcoming OpenSHMEM Teams API - Co-Author](https://ieeexplore.ieee.org/document/9062752)
-3. [Cookies vs Session vs Local storage - Author](https://medium.com/@sid.bhanushali101/cookies-vs-session-vs-local-storage-2ac7916d9b17)
+1. [Cookies vs Session vs Local storage - Author](https://medium.com/@sid.bhanushali101/cookies-vs-session-vs-local-storage-2ac7916d9b17)
 
 ## Apps / Side Projects
 
@@ -42,5 +40,6 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 ## Education
 
 ### San Francisco State University 🌉🐊
-B.S information Systems  (2020) 
-
+Bachelor of Science:  Information Systems  (2020)
+ 
+- Relevant Coursework: (Introduction to Programming,  Building Business Web Applications, Information Systems Analysis and Design,  Managing Enterprise Networks, Building Mobile Business Applications,  Web Applications with Open Source Software, Managing Enterprise Data, IT Project Management, Application Development for Data Analytics,  Business Statistics)
