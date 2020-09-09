@@ -42,6 +42,5 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 ## Education
 
 ### San Francisco State University 🌉🐊
-Lam Family College of Business
 B.S information Systems  (2020) 
 
