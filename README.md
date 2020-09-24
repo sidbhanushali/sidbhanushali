@@ -18,7 +18,8 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 ### Publications
 
-1. [Cookies vs Session vs Local storage - Author](https://medium.com/@sid.bhanushali101/cookies-vs-session-vs-local-storage-2ac7916d9b17)
+1. [Cookies vs Session vs Local storage - Author](https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
+2. [A Brief Intro to MVC Architecture - Author](https://dev.to/sidbhanushali/a-brief-intro-to-mvc-architecture-27e4)
 
 ## Apps / Side Projects
 
@@ -42,4 +43,14 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 ### San Francisco State University 🌉🐊
 Bachelor of Science:  Information Systems  (2020)
  
-- Relevant Coursework: (Introduction to Programming,  Building Business Web Applications, Information Systems Analysis and Design,  Managing Enterprise Networks, Building Mobile Business Applications,  Web Applications with Open Source Software, Managing Enterprise Data, IT Project Management, Application Development for Data Analytics,  Business Statistics)
+- Relevant Coursework:
+     Introduction to Programming (CSC-210),
+     Building Business Web Applications (ISYS-350),
+     Information Systems Analysis and Design (ISYS-463), 
+     Managing Enterprise Networks (ISYS-565),
+     Building Mobile Business Applications (ISYS-556),
+     Web Applications with Open Source Software (ISYS-475),
+     Managing Enterprise Data (ISYS-464),
+     IT Project Management (ISYS-663),
+     Application Development for Data Analytics (ISYS-412),
+     Business Statistics (DS-212)
