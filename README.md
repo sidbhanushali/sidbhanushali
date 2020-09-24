@@ -44,13 +44,13 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 Bachelor of Science:  Information Systems  (2020)
  
 - Relevant Coursework:
-     Introduction to Programming (CSC-210),
-     Building Business Web Applications (ISYS-350),
-     Information Systems Analysis and Design (ISYS-463), 
-     Managing Enterprise Networks (ISYS-565),
-     Building Mobile Business Applications (ISYS-556),
-     Web Applications with Open Source Software (ISYS-475),
-     Managing Enterprise Data (ISYS-464),
-     IT Project Management (ISYS-663),
-     Application Development for Data Analytics (ISYS-412),
-     Business Statistics (DS-212)
+     - Introduction to Programming (CSC-210),
+    -  Building Business Web Applications (ISYS-350),
+    -  Information Systems Analysis and Design (ISYS-463), 
+    -  Managing Enterprise Networks (ISYS-565),
+    -  Building Mobile Business Applications (ISYS-556),
+    -  Web Applications with Open Source Software (ISYS-475),
+   -   Managing Enterprise Data (ISYS-464),
+    -  IT Project Management (ISYS-663),
+    -  Application Development for Data Analytics (ISYS-412),
+    -  Business Statistics (DS-212)
