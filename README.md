@@ -16,7 +16,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 - Built responsive mobile-first navigation pages for main website hiranihospital.com and helped build main landing page. Used bootstrap, learned and implemented jQuery to project.
 
-### Publications
+## Publications
 
 1. [Cookies vs Session vs Local storage - Author](https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
 2. [A Brief Intro to MVC Architecture - Author](https://dev.to/sidbhanushali/a-brief-intro-to-mvc-architecture-27e4)
