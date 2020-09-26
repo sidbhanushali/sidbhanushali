@@ -1,4 +1,4 @@
-# Siddharth Bhanushali 
+# Siddharth Bhanushali 👦🏽
 
 Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if you like! I am currently full stack developer and a class of 2020 grad in Information Systems from San Francisco State University. I love to explore technology and develop interesting things out of it. I love open-source, learning new tech, and interacting with the tech community. I have experience writing programs in python as well as developing and delpoying full stack applications in javascript and with various web technologies. I'm a lifelong learner at heart and love learning and finding out creative and efficient ways to solve any problems at hand. 
 - [Check out my blog here!📝](https://dev.to/sidbhanushali/)
@@ -18,12 +18,12 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 - Built responsive mobile-first navigation pages for main website hiranihospital.com and helped build main landing page. Used bootstrap, learned and implemented jQuery to project.
 
-## Publications
+## Publications 📚
 
 1. [Cookies vs Session vs Local storage - Author](https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
 2. [A Brief Intro to MVC Architecture - Author](https://dev.to/sidbhanushali/a-brief-intro-to-mvc-architecture-27e4)
 
-## Apps / Side Projects
+## Apps / Side Projects 👨🏽‍💻
 
 **[StoryCore](https://storycore.herokuapp.com/)**  - Node.JS App that allows you to create your own journals and stories and share them with the world 
 
@@ -32,7 +32,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 **[COVID-19 Data Tracker](https://sidbhanushali.github.io/COVID19-Data-App/)**   - a responsive web app built in react.js and visually displays real time COVID-19 Stats worldwide and from each country.
 
-## Skills
+## Skills 💻
 
 **Languages**: HTML, CSS, Python, Javascript, bash/shell
 
