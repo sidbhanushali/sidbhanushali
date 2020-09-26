@@ -10,7 +10,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 **active site user**
 
--   I am currently an active user at Twitter inc. i usually lerk i dont post anything
+-   I am currently an active user at Twitter inc. i usually lerk and rt i dont post anything
 
 ### Hirani  Hospital
 
