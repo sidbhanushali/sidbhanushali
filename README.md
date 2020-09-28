@@ -40,6 +40,23 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 **Web Dev**: MERN Stack (MongoDB, React, Express, Node)
 
+![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
+<br>
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=F05032)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat-square&logo=tensorflow)
+<br>
+![Sublime Text](https://img.shields.io/badge/-Sublime-111111?style=flat&logo=sublime-text)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-111111?style=flat-square&logo=jupyter)
+![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
+![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku)
+
+
+
+
 ## Education
 
 ### San Francisco State University 🌉🐊
