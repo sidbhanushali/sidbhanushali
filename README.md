@@ -27,10 +27,13 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 **[StoryCore](https://storycore.herokuapp.com/)**  - Node.JS App that allows you to create your own journals and stories and share them with the world 
 
-**[Easy Bud](https://easy-bud.glitch.me)**  - responsive and simple vanilla Javascicript budget mangement app allows users to log and track their income, their expenses, and see whats left 
+**[TechProShop](https://github.com/sidbhanushali/TechProShop)**  - MERN e-commerce platform for people to buy, sell, and review electronics at great prices.
 
+**[Python Voice Assistant](https://github.com/sidbhanushali/python_voice_assistant)**  - Python app that uses speech recognition and gTTS to answer speech commands
 
 **[COVID-19 Data Tracker](https://sidbhanushali.github.io/COVID19-Data-App/)**   - a responsive web app built in react.js and visually displays real time COVID-19 Stats worldwide and from each country.
+
+**[More Projects!](https://github.com/sidbhanushali?tab=repositories)**   - Im always building more projects with the tools I learn check out more of my repositores here!
 
 ## Skills 💻
 
