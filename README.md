@@ -6,11 +6,6 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 ## Work
 
-### Twitter, Inc
-
-**active site user**
-
--   I am currently an active user at Twitter inc. i usually lerk and rt i dont post anything
 
 ### Hirani  Hospital
 
@@ -33,7 +28,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 **[COVID-19 Data Tracker](https://sidbhanushali.github.io/COVID19-Data-App/)**   - a responsive web app built in react.js and visually displays real time COVID-19 Stats worldwide and from each country.
 
-**[More Projects!](https://github.com/sidbhanushali?tab=repositories)**   - Im always building more projects with the tools I learn check out more of my repositores here!
+**[More Projects!](https://github.com/sidbhanushali?tab=repositories)**   - I love building more projects with the tools I learn check out more of my repositories here!
 
 ## Skills 💻
 
