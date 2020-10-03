@@ -34,28 +34,33 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 ## Skills 💻
 
-**Languages**: HTML, CSS, Python, Javascript, bash/shell
-
-**Deployment**: AWS, Heroku, Netlify, Glitch 
-
-**Web Dev**: MERN Stack (MongoDB, React, Express, Node)
-
-![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
+**Languages**: HTML, CSS, Python, Javascript, bash/shell<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
+![Javascript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
+![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=bash)
 <br>
+<br>
+**Devops & Deployment**: AWS, Docker, Kubernetes, Git, Heroku, Netlify, Glitch <br>
+![Docker](https://img.shields.io/badge/-Docker-111111?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-111111?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-111111?style=flat&logo=aws)
+![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat&logo=heroku&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/-Netlify-111111?style=flat&logo=netlify&logoColor=ffffff)
+![Glitch](https://img.shields.io/badge/-Glitch-111111?style=flat&logo=glitch&logoColor=ffffff)
+<br>
+<br>
+**Web Dev**: MERN Stack (MongoDB, React, Express, Node), Django <br>
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=F05032)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=F05032)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node&logoColor=F05032)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=F05032)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat-square&logo=tensorflow)
+
 <br>
-![Sublime Text](https://img.shields.io/badge/-Sublime-111111?style=flat&logo=sublime-text)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-111111?style=flat-square&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku)
-
-
-
 
 ## Education
 
