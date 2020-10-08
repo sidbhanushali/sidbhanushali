@@ -7,11 +7,15 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 ## Work
 
 
-### Hirani  Hospital
+### , Mountain View, CA
 
-**Front End Web Developer Intern**
+**Software Engineer**
 
-- Built responsive mobile-first navigation pages for main website hiranihospital.com and helped build main landing page. Used bootstrap, learned and implemented jQuery to project.
+- Built fast, responsive, and security Web App using React.
+-  Built fast and security Nodejs Server 
+- Used Docker container to test the product.
+- Deployed the application to the company's AWS EC2.
+
 
 ## Publications 📚
 
