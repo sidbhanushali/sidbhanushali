@@ -30,7 +30,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 **[Python Voice Assistant](https://github.com/sidbhanushali/python_voice_assistant)**  - Python app that uses speech recognition and gTTS to answer speech commands
 
-**[COVID-19 Data Tracker](https://covid19-datanow.netlify.app)**   - a responsive web app built in react.js and visually displays real time COVID-19 Stats worldwide and from each country.
+**[COVID-19 Data Tracker](https://covid19-datanow.netlify.app)**   - a responsive web app built with react.js and chart.js libraries that visually displays real time COVID-19 Stats worldwide and from each country.
 
 **[More Projects!](https://github.com/sidbhanushali?tab=repositories)**   - I love building more projects with the tools I learn check out more of my repositories here!
 
