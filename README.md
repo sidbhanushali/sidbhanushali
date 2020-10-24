@@ -7,7 +7,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 ## Work
 
 
-### , Mountain View, CA
+###  Mountain View, CA
 
 **Software Engineer**
 
