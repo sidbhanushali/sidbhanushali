@@ -36,7 +36,7 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 
 ## Skills 💻
 
-**Languages**: HTML, CSS, Python, Javascript, bash/shell<br>
+**Languages**: HTML, CSS, Python, Javascript, bash / shell<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
