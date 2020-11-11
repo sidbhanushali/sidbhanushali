@@ -2,19 +2,8 @@
 
 Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if you like! I am currently full stack developer and a class of 2020 grad in Information Systems from San Francisco State University. I love to explore technology and develop interesting things out of it. I love open-source, learning new tech, and interacting with the tech community. I have experience writing programs in python as well as developing and delpoying full stack applications in javascript and with various web technologies. I'm a lifelong learner at heart and love learning and finding out creative and efficient ways to solve any problems at hand. 
 - [Check out my blog here!📝](https://dev.to/sidbhanushali/)
+- [Check out my Website!🕸](https://dev.to/sidbhanushali/)
 
-
-## Work
-
-
-###  Mountain View, CA
-
-**Software Engineer**
-
-- Built fast, responsive, and security Web App using React.
--  Built fast and security Nodejs Server 
-- Used Docker container to test the product.
-- Deployed the application to the company's AWS EC2.
 
 
 ## Publications 📚
@@ -44,10 +33,11 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 ![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=bash)
 <br>
 <br>
-**Devops & Deployment**: AWS, Docker, Kubernetes, Git, Heroku, Netlify, Glitch <br>
+**Devops & Deployment**: AWS, Docker, Kubernetes, Jenkins, Git, Heroku, Netlify, Glitch <br>
+![AWS](https://img.shields.io/badge/-AWS-111111?style=flat&logo=aws)
 ![Docker](https://img.shields.io/badge/-Docker-111111?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-111111?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-111111?style=flat&logo=aws)
+![Jenkins](https://img.shields.io/badge/-Jenkins-555555?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat&logo=heroku&logoColor=ffffff)
@@ -55,9 +45,10 @@ Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if yo
 ![Glitch](https://img.shields.io/badge/-Glitch-111111?style=flat&logo=glitch&logoColor=ffffff)
 <br>
 <br>
-**Web Dev**: MERN Stack (MongoDB, React, Express, Node), Django <br>
+**Web Dev**:MongoDB, React, Redux, Express, Node.js, Django <br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=F05032)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=react&logoColor=F05032)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=F05032)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node&logoColor=F05032)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=F05032)
