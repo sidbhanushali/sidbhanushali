@@ -2,7 +2,7 @@
 
 Hey Everyone!👋🏽 My name is Siddharth Bhanushali, you can call me Sid if you like! I am currently full stack developer and a class of 2020 grad in Information Systems from San Francisco State University. I love to explore technology and develop interesting things out of it. I love open-source, learning new tech, and interacting with the tech community. I have experience writing programs in python as well as developing and delpoying full stack applications in javascript and with various web technologies. I'm a lifelong learner at heart and love learning and finding out creative and efficient ways to solve any problems at hand. 
 - [Check out my blog here!📝](https://dev.to/sidbhanushali/)
-- [Check out my Website!🕸](https://dev.to/sidbhanushali/)
+- [Check out my Website!🕸](https://sidb.ml)
 
 
 
