@@ -25,10 +25,5 @@ Areas I care about:
 - Oracle design: graders that can't be reward-hacked, negative checks,
   environments that survive 1,000 parallel runs
 
-Right now I'm deep in the [SREGym](https://github.com/SREGym/SREGym) codebase.
-First scenario contributions on the way.
-
-## Contact
-
-sidbeezy@gmail.com. Everything here is personal work, built on personal time
-and hardware.
+Right now: working through the [SREGym](https://github.com/SREGym/SREGym)
+codebase and building scenarios for it.
