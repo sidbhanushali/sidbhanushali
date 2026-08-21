@@ -1,30 +1,11 @@
 # Sid Bhanushali
 
-Building RL training environments for production incidents.
+DevSecOps engineer, five years deep in Kubernetes, CI/CD, and security
+hardening for regulated, high-security environments. Information Systems,
+SFSU '20.
 
-I've spent the last five years running hardened Kubernetes platforms in
-regulated, air-gapped environments. GitLab pipelines, ArgoCD, and all the ways
-they break at 2am. Almost none of that work is public. This is the public half.
+Lately I'm most interested in RL environments for infrastructure and incident
+response: reproducible broken-production worlds, graded by oracles that check
+state instead of symptoms, so agents can learn to actually fix things.
 
-## What I'm working on
-
-Frontier models still fail most Kubernetes incident tasks on public
-leaderboards, and part of the problem is there's barely anything to train them
-on. You need containerized worlds that are broken the way real prod breaks
-(actual root causes, not a chaos tool flipping bits), graded by checks that ask
-whether the system is actually healthy again instead of whether the alert went
-quiet.
-
-So I'm building those.
-
-Areas I care about:
-- Infra incidents: cascading cert failures, OOM spirals, compound faults that
-  stay broken after the trigger is gone
-- Security incidents (defensive IR only): RBAC lockouts, secret rotation gone
-  wrong, poisoned images
-- Oracle design: graders that can't be reward-hacked, negative checks,
-  environments that survive 1,000 parallel runs
-
-
-## Contact
-sbhanushali415@gmail.com.
+Currently building failure scenarios for [SREGym](https://github.com/SREGym/SREGym).
