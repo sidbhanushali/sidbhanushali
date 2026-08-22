@@ -7,5 +7,3 @@ SFSU '20.
 Lately I'm most interested in RL environments for infrastructure and incident
 response: reproducible broken-production worlds, graded by oracles that check
 state instead of symptoms, so agents can learn to actually fix things.
-
-Currently building failure scenarios for [SREGym](https://github.com/SREGym/SREGym).
